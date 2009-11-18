@@ -1,0 +1,5 @@
+LICENSE.txt
+MANIFEST.txt
+README.rdoc
+lib/scriptfile.rb
+lib/scriptfile/version.rb
