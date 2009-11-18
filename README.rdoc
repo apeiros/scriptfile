@@ -1,0 +1,35 @@
+= ScriptFile
+
+
+
+== Summary
+
+Use data after __END__ in .rb files like normal files
+
+
+== Also See
+
+IRC::             The channel #ruby-lang on irc.freenode.org
+                  
+                  I'm there under the nick apeiros.
+                  
+                  Beware, I'm idling there 24/7, so my nick being in there doesn't
+                  mean I'm in front of the computer.
+
+
+
+== Description
+
+Use data after __END__ in .rb files like normal files
+
+
+
+== Credits & Contributions
+
+Currently none.
+
+
+
+== Known bugs
+
+Currently none.
